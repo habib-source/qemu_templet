@@ -1,6 +1,6 @@
 # QEMU Virtual Machine Setup on Linux
 
-This repository discrbe my personal aproech for runningvms.
+This repository discrbe my personal aproech for running VMs.
 
 ## Requirements
 

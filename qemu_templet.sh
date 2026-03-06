@@ -17,5 +17,5 @@ exec qemu-system-x86_64 \
 	# for internet:
 	-nic user, model=virtio-net-pci,mac=02:00:00:00:00:01 \
 	# for using a bridge:
-        # -nic bridge,br=br0,model=e1000,mac=02:00:00:00:00:01 \
+        # -nic bridge,br=br0,model=virtio-net-pci,mac=02:00:00:00:00:01 \
         $@
