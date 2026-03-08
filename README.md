@@ -5,7 +5,8 @@ This repository discrbe my personal aproech for running VMs.
 ## Requirements
 
 * **Operating System:** Any modern Linux distribution.
-* **Packages:** * `qemu-system-x86` (The main emulator)
+* **Packages:**
+* `qemu-system-x86` (The main emulator)
 * `qemu-utils` (For disk image management)
 * qemu-desktop  (For the graphical display)
 
